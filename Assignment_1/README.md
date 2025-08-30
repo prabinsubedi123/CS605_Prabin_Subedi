@@ -4,4 +4,4 @@ This is a simple calculator written in Python that performs basic arithmetic ope
 # How to Run:
 -open the file simple_calculator.py in your editor
 -run the script
--the output will appear in the terminal
+-the output will appear in the terminal 
